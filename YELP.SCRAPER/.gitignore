@@ -1,0 +1,10 @@
+# Ignore Data Files
+*.csv
+
+# Ignore Chrome Profile Data (Very Important!)
+ChromeBotProfile/
+user_data/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
